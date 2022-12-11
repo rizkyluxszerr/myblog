@@ -54,7 +54,7 @@ with datasets:
 
 with preprocessing:
     st.subheader("""Rumus Normalisasi Data""")
-    st.image('https://i.stack.imgur.com/EuitP.png', use_column_width=False, width=250)
+    st.image('normalisasi.png', use_column_width=False, width=250)
     st.markdown("""
     Keterangan :
     - X = data yang akan dinormalisasi atau data asli
